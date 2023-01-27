@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/GDSC-NFSU.github.io/static/css/main.0494367a.css",
-    "main.js": "/GDSC-NFSU.github.io/static/js/main.fcf8c342.js",
-    "static/media/my p-p.png": "/GDSC-NFSU.github.io/static/media/my p-p.80a01cfa57ca64f1c2a8.png",
-    "static/media/maanas.jpg": "/GDSC-NFSU.github.io/static/media/maanas.8d98332f244385ebd215.jpg",
-    "static/media/avaneesh.jpg": "/GDSC-NFSU.github.io/static/media/avaneesh.91be7b3d08d31d492df4.jpg",
-    "static/media/divyansh.jpg": "/GDSC-NFSU.github.io/static/media/divyansh.fdd3f24f9e336bc3998f.jpg",
-    "static/media/Aditi.jpeg": "/GDSC-NFSU.github.io/static/media/Aditi.895a558e6be0bff57c98.jpeg",
-    "static/media/gdsc-black.png": "/GDSC-NFSU.github.io/static/media/gdsc-black.875b581e618d589b883c.png",
-    "static/media/gdsc_in_img_1.png": "/GDSC-NFSU.github.io/static/media/gdsc_in_img_1.3671f211a453985aadbc.png",
-    "static/media/Nitish.jpg": "/GDSC-NFSU.github.io/static/media/Nitish.7641a5f5c533b454ff01.jpg",
-    "static/media/gdsc-long-black.png": "/GDSC-NFSU.github.io/static/media/gdsc-long-black.3efce2a884bd8495419c.png",
-    "static/media/gdsc-white.png": "/GDSC-NFSU.github.io/static/media/gdsc-white.da99b85bbe4047ea58d5.png",
-    "static/media/instagram(1).png": "/GDSC-NFSU.github.io/static/media/instagram(1).ac32ec0a111aeba03298.png",
-    "static/media/foot-img.svg": "/GDSC-NFSU.github.io/static/media/foot-img.29fb337fb08dff2ed23fa52a3d1dd2fb.svg",
-    "static/media/placeholder.png": "/GDSC-NFSU.github.io/static/media/placeholder.64cdcb0ef97818161310.png",
-    "static/media/staytune.png": "/GDSC-NFSU.github.io/static/media/staytune.8e5c3814a8edbd1ca555.png",
-    "static/media/twitter.png": "/GDSC-NFSU.github.io/static/media/twitter.9bc1f75f31d8250a44ea.png",
-    "static/media/linkedin.png": "/GDSC-NFSU.github.io/static/media/linkedin.032cf8a63be2f0f4d425.png",
-    "static/media/shashi_raj.webp": "/GDSC-NFSU.github.io/static/media/shashi_raj.eb0c446264689b566420.webp",
-    "index.html": "/GDSC-NFSU.github.io/index.html",
-    "main.0494367a.css.map": "/GDSC-NFSU.github.io/static/css/main.0494367a.css.map",
-    "main.fcf8c342.js.map": "/GDSC-NFSU.github.io/static/js/main.fcf8c342.js.map"
+    "main.css": "/static/css/main.0494367a.css",
+    "main.js": "/static/js/main.3cac9596.js",
+    "static/media/my p-p.png": "/static/media/my p-p.80a01cfa57ca64f1c2a8.png",
+    "static/media/maanas.jpg": "/static/media/maanas.8d98332f244385ebd215.jpg",
+    "static/media/avaneesh.jpg": "/static/media/avaneesh.91be7b3d08d31d492df4.jpg",
+    "static/media/divyansh.jpg": "/static/media/divyansh.fdd3f24f9e336bc3998f.jpg",
+    "static/media/Aditi.jpeg": "/static/media/Aditi.895a558e6be0bff57c98.jpeg",
+    "static/media/gdsc-black.png": "/static/media/gdsc-black.875b581e618d589b883c.png",
+    "static/media/gdsc_in_img_1.png": "/static/media/gdsc_in_img_1.3671f211a453985aadbc.png",
+    "static/media/Nitish.jpg": "/static/media/Nitish.7641a5f5c533b454ff01.jpg",
+    "static/media/gdsc-long-black.png": "/static/media/gdsc-long-black.3efce2a884bd8495419c.png",
+    "static/media/gdsc-white.png": "/static/media/gdsc-white.da99b85bbe4047ea58d5.png",
+    "static/media/instagram(1).png": "/static/media/instagram(1).ac32ec0a111aeba03298.png",
+    "static/media/foot-img.svg": "/static/media/foot-img.29fb337fb08dff2ed23fa52a3d1dd2fb.svg",
+    "static/media/placeholder.png": "/static/media/placeholder.64cdcb0ef97818161310.png",
+    "static/media/staytune.png": "/static/media/staytune.8e5c3814a8edbd1ca555.png",
+    "static/media/twitter.png": "/static/media/twitter.9bc1f75f31d8250a44ea.png",
+    "static/media/linkedin.png": "/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "static/media/shashi_raj.webp": "/static/media/shashi_raj.eb0c446264689b566420.webp",
+    "index.html": "/index.html",
+    "main.0494367a.css.map": "/static/css/main.0494367a.css.map",
+    "main.3cac9596.js.map": "/static/js/main.3cac9596.js.map"
   },
   "entrypoints": [
     "static/css/main.0494367a.css",
-    "static/js/main.fcf8c342.js"
+    "static/js/main.3cac9596.js"
   ]
 }
